@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "peekaboo",
+  "base_artist": "Kendrick Lamar",
+  "createdAt": "2025-12-30T14:42:13.578846Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Peekaboo",
+      "artist": "Set It Off",
+      "has_synced": true,
+      "path": "select/01_Peekaboo_Set_It_Off.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Someone Else - PEEKABOO Remix",
+      "artist": "Rezz feat. Grabbitz & PEEKABOO",
+      "has_synced": false,
+      "path": "select/02_Someone_Else_-_PEEKABOO_Remix_Rezz_feat._Grabbitz_&_PEEKABOO.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Someone Else (PEEKABOO Remix)",
+      "artist": "Rezz, Grabbitz, PEEKABOO",
+      "has_synced": false,
+      "path": "select/03_Someone_Else_(PEEKABOO_Remix)_Rezz,_Grabbitz,_PEEKABOO.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Peekaboo!",
+      "artist": "Devo",
+      "has_synced": true,
+      "path": "select/04_Peekaboo!_Devo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hydrate (feat. Flowdan, BEAM, & PEEKABOO)",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/05_Hydrate_(feat._Flowdan,_BEAM,_&_PEEKABOO)_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Peekaboo",
+      "artist": "Apeksha Dandekar feat. Benny Dayal & Mandeep Sethi",
+      "has_synced": false,
+      "path": "select/06_Peekaboo_Apeksha_Dandekar_feat._Benny_Dayal_&_Mandeep_Sethi.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Peekaboo",
+      "artist": "Apeksha Dandekar, Benny Dayal & Mandeep Sethi",
+      "has_synced": false,
+      "path": "select/07_Peekaboo_Apeksha_Dandekar,_Benny_Dayal_&_Mandeep_Sethi.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Peekaboo",
+      "artist": "Mandeep Sethi, Apeksha Dandekar, Benny Dayal",
+      "has_synced": false,
+      "path": "select/08_Peekaboo_Mandeep_Sethi,_Apeksha_Dandekar,_Benny_Dayal.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Peekaboo",
+      "artist": "Bside feat. 30",
+      "has_synced": false,
+      "path": "select/09_Peekaboo_Bside_feat._30.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Peekaboo",
+      "artist": "30",
+      "has_synced": false,
+      "path": "select/10_Peekaboo_30.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Peekaboo",
+      "artist": "Karsh Kale",
+      "has_synced": false,
+      "path": "select/11_Peekaboo_Karsh_Kale.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Peekaboo",
+      "artist": "Super Simple Songs",
+      "has_synced": true,
+      "path": "select/12_Peekaboo_Super_Simple_Songs.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hydrate feat. PEEKABOO",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/13_Hydrate_feat._PEEKABOO_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Skrillex, PEEKABOO, Flowdan, & G-Rex - Badders (Official Audio)",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/14_Skrillex,_PEEKABOO,_Flowdan,_&_G-Rex_-_Badders_(Official_Audio)_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Peekaboo, I Love You",
+      "artist": "Super Simple Songs",
+      "has_synced": true,
+      "path": "select/15_Peekaboo,_I_Love_You_Super_Simple_Songs.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Peekaboo!",
+      "artist": "Shanti Dope",
+      "has_synced": true,
+      "path": "select/16_Peekaboo!_Shanti_Dope.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "peekaboo",
+      "artist": "NUVILICES",
+      "has_synced": false,
+      "path": "select/17_peekaboo_NUVILICES.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Someone Else (PEEKABOO remix)",
+      "artist": "REZZ × Grabbitz",
+      "has_synced": false,
+      "path": "select/18_Someone_Else_(PEEKABOO_remix)_REZZ_×_Grabbitz.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Peekaboo (feat. 30)",
+      "artist": "Bside",
+      "has_synced": false,
+      "path": "select/19_Peekaboo_(feat._30)_Bside.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "peekaboo (feat. azchike)",
+      "artist": "Kendrick Lamar, AzChike",
+      "has_synced": false,
+      "path": "select/pl_01_peekaboo_(feat._azchike)_Kendrick_Lamar,_AzChike.txt"
+    }
+  ]
+}
